@@ -5,4 +5,4 @@ then i have to run the pre commit install
 then i have to add that commit changes by doing git add .
 then i have to run the git commit -m "" command to commit that chaneges 
 
-so i need to make a jenkins pipeline stage do do it automate !
+so i need to make a jenkins pipeline stage do do it automate   !
