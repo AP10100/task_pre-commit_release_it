@@ -8,7 +8,7 @@
   "github": {
     "release": true,
     "releaseName": "Release ${version}",
-    "releaseNotes": "Release notes for version ${version}:Add your release notes here.",
+    "releaseNotes": "Release notes for version ${version}: Add your release notes here.",
     "tokenRef": "GITHUB_TOKEN"
   },
   "npm": {
